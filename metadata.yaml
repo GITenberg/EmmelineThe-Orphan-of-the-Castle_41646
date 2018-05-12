@@ -1,0 +1,30 @@
+_repo: EmmelineThe-Orphan-of-the-Castle_41646
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41646-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Charlotte
+    alias: Smith, Charlotte Turner
+    birthdate: 1749
+    deathdate: 1806
+    gutenberg_agent_id: '41281'
+    url: http://www.gutenberg.org/2009/agents/41281
+description: ''
+gutenberg_issued: '2012-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Great Britain -- Social life and customs -- 18th century -- Fiction'
+- !lcc 'PR'
+title: Emmeline, the Orphan of the Castle
+url: http://www.gutenberg.org/ebooks/41646
